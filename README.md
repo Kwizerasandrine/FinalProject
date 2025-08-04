@@ -4,3 +4,46 @@ Names: Kwizera Sandrine
 ID: 26104
 
 Email: sandrarusangiza@gmail.com
+
+## 📌 Overview
+This project focuses on detecting cybersecurity threats and anomalies in network traffic data using Python for preprocessing & anomaly detection, and Power BI for interactive visualization.
+
+The dashboards present:
+- Overall network traffic statistics
+- Anomaly detection insights
+- Model performance metrics
+
+---
+## 🛠 Methodology
+1. **Data Cleaning:** Removed missing values, encoded categorical columns
+2. **Anomaly Detection:** Applied Isolation Forest algorithm to detect outliers
+3. **Visualization:** Built interactive dashboards in Power BI
+
+---
+
+## 📊 Dashboard Pages
+
+### 1️⃣ Traffic Overview Dashboard
+- Total Records
+- Total Benign Traffic
+- Total Attacks
+- Anomaly distribution (donut chart)
+- Filters for `protocol`, `flag`, `predicted label`
+
+## 🛠 Tools & Technologies
+- **Python:** pandas, scikit-learn
+- **Power BI:** Interactive dashboard design
+
+## 📥 Files & Resources
+
+### 📊 PowerPoint Presentation
+[🎯 View Presentation](./Cybersecurity_Capstone_Presentation.ppt) |(https://github.com/Serge731/CyberSecurityBigDataAnalytics/blob/main/Cybersecurity_Capstone_Presentation.pptx)
+
+### 🖼️ Dashboard Screenshots
+[📁 Screenshots Folder](https://github.com/Serge731/CyberSecurityBigDataAnalytics/tree/main/Notebook%20Screenshots) |
+
+### 📄 Documentation
+- [📋 Dataset](https://github.com/Serge731/CyberSecurityBigDataAnalytics/blob/main/refined_dataset_with_anomaly.csv)
+
+### 🔗 Quick Links
+| 📊 Data Analysis | Complete Jupyter Notebook | [Open Notebook]
