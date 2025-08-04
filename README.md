@@ -1,4 +1,4 @@
 # Personal Information
-# Names: Kwizera Sandrine
-# ID: 26104
+Names: Kwizera Sandrine
+ID: 26104
 
