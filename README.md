@@ -40,3 +40,5 @@ The dashboards present:
 this is the the link that guide you to my powerpoint presentation of cybersecurity project(https://github.com/Kwizerasandrine/FinalProject/blob/main/Cybersecurity%20Project.pptx) 
 
 this is the synthetic-cybersecurity_dataset.csv link(https://github.com/Kwizerasandrine/FinalProject/blob/main/synthetic_cybersecurity_dataset.csv)
+
+this is the link of codes i have used in kaggle for this project(https://github.com/Kwizerasandrine/FinalProject/blob/main/my%20codes%20used%20in%20project.ipynb)
